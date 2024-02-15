@@ -7,7 +7,7 @@ permalink: /syllabus/
 **Instructors:** [Prof. Roozbeh Haghnazar](mailto:roozbeh@gwu.edu)
 
 **Time/Place:**
-  * **Class meets Thursdays 6:10-8:40PM BELL 204**
+  * **Class meets Thursdays 6:10-8:40PM - Phillips Hall 209**
 
 **Office Hours:**
   
