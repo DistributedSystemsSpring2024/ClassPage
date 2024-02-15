@@ -19,12 +19,12 @@
 ## Announcements ##
 - We will make decision about the exams in the first session
 - The [Final Project](./project/) Milestones will be announced.
-- If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56)
+- If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/5RpcjzQwMvMpURNT9)
 - Check the [Syllabus](syllabus/) for more info.
 - Both sections 80 and 81 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
 - You can use use Python and Go to get your projects and assignments done.
 - We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week. 
-- We use [Slack](https://distributedsystem2023.slack.com) to communicate and discuss about the topic, assignments and project.
+- We use [Slack](https://distributedsy-exa1318.slack.com) to communicate and discuss about the topic, assignments and project.
 
 
 
