@@ -18,7 +18,7 @@ permalink: /syllabus/
   * Undergraduate Operating Systems
   * Strong programming skills
 
-**Website:** [https://gwdistsys2023.github.io/DistributedSystem/](https://gwdistsys2023.github.io/DistributedSystem/)
+**Website:** [https://distributedsystemsspring2024.github.io/ClassPage/](https://distributedsystemsspring2024.github.io/ClassPage/)
 
 
 ### Course Description
