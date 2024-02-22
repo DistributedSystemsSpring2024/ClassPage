@@ -45,7 +45,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Overview</b>
-			<br>1/19/2023
+			<br>1/18/2024
 		</td>
 		<td>
 			<a href="./slides/1-Introduction.pdf">Lecture Slides</a> -- 
@@ -63,7 +63,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Scalable Execution</b>
-			<br>1/26/2023
+			<br>1/25/2024
 		</td>
 		<td>
 			<a href="./slides/2- Processes Threads VMs Containers.pdf">Lecture Slides </a>
@@ -80,7 +80,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Communication</b>
-			<br>2/02/2023
+			<br>2/01/2024
 		</td>
 		<td>
 			<a href="./slides/3-Communication.pdf">Lecture Slides </a>
@@ -97,7 +97,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Architectures</b>
-			<br>2/09/2023
+			<br>2/08/2024
 		</td>
 		<td>
 			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
@@ -114,7 +114,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Resource Management</b>
-			<br>2/16/2023
+			<br>2/15/2024
 		</td>
 		<td>
 			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
@@ -128,7 +128,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Resource Management 2</b>
-			<br>2/23/2023
+			<br>2/22/2024
 		</td>
 		<td>
 			<a href="./slides/6-Migration.pdf">Lecture Slides </a>
@@ -153,7 +153,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Clocks and Timing</b>
-			<br>3/02/2023
+			<br>2/29/2024
 		</td>
 		<td>
 			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
@@ -170,7 +170,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Distributed Coordination</b>
-			</br>3/09/2023
+			</br>3/07/2024
 		</td>
 		<td>
 			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
@@ -187,7 +187,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Fault Tolerance</b>
-			<br>3/23/2023
+			<br>3/14/2024
 		</td>
 		<td>
 			<a href="./slides/9-FaultTolerance.pdf">Lecture Slides </a>
@@ -204,7 +204,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Replication</b>
-			<br>3/30/2023
+			<br>3/21/2024
 		</td>
 		<td>
 			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 03/30 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
@@ -219,11 +219,12 @@ All deadlines are 11:59PM Eastern Time
 		</td>
 	</tr>
 	<tr>
+		<td style="width:20%">
+			<b>Clocks and Timing</b>
+			<br>2/29/2024
+		</td>
 		<td>
-			<b>Midterm Exam</b>
-			<br>--------</td>
-		<td>
-			<a href="./sample-exam.pdf">Practice problems</a>
+			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -231,21 +232,14 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			Study!
+			<a href="./readings.pdf">Projrct</a>
 		</td>
 	</tr>
-</table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="text-align:center" colspan="2">Part 3: Distributed Systems in Practice</th>
-		</tr>
-	</thead>
 	<tr>
 		<td style="width:20%">
 			<b>Performance Modeling</b>
-			<br>--------</td>
+			<br>3/28/2024
+		</td>
 		<td>
 			<a href="./slides/11-Performance.pdf"> Lecture Slides </a>
 		</td>
@@ -254,13 +248,14 @@ All deadlines are 11:59PM Eastern Time
 		<td style="text-align:right">
 			<i>Tasks:</i>
 		</td>
-			<td>Work on your project! 
+		<td>
+			Work on your project! 
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<b>Cloud Computing</b>
-			<br>--------
+			<br>4/04/2024
 		</td>
 		<td>
 			<a href="./slides/12-CloudApps.pdf"> Lecture Slides </a>
@@ -272,7 +267,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Internet of Things and Big Data</b>
-			<br>--------
+			<br>4/11/2024
 		</td>
 		<td>
 			Lecture Slides
