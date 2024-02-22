@@ -57,7 +57,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="https://distributedsystem2023.slack.com">Join Slack</a> today! -- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28 
+			<a href="https://distributedsy-exa1318.slack.com">Join Slack</a> today! -- <a href="https://forms.gle/5RpcjzQwMvMpURNT9">Student Survey</a> due Monday 02/28 
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 04/06
+			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 03/06
 		</td>
 	</tr>
 	<tr>
@@ -170,7 +170,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Distributed Coordination</b>
-			</br>3/07/2024
+			<br>3/07/2024
 		</td>
 		<td>
 			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
