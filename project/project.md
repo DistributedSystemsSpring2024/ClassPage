@@ -13,11 +13,11 @@ For your final project you will investigate a research challenge in distributed 
 You have about two months to complete the project so it should be more significant than a standard programming assignment, while still being feasible to complete within that time frame. The project will be broken into milestones.
 
 **Due Dates:**
-  - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 01/30 
-  - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 02/04 (10 points)
-  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 02/16 (40 points)
-  - [Milestone 3: Design Document](#milestone-3-design-document) - 02/26 (50 points)
-  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 05/16 (100 points)
+  - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 02/24 
+  - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 03/02 (10 points)
+  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 03/16 (40 points)
+  - [Milestone 3: Design Document](#milestone-3-design-document) - 04/06 (50 points)
+  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 05/03 (100 points)
 
 ---
 
